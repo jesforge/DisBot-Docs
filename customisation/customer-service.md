@@ -35,18 +35,15 @@ Go to Bot and select the Gateway Intent bits! **(very important for the bot to w
 ## Step 3 
 
 Now you can invite the Bot on your server.
-(Please on the server where it is to be used.)
+> Please on the server where it is to be used.
 
 ## Step 4
 
 Now use the /customer create command from DisBot™ 
 And read the Customer Terms and infos in the embed. 
 
-:::
+> Please use the command on the server where the bot is supposed to run so that the commands are all registered.
 
-(Very important!!! Please use the command on the server where the bot is supposed to run so that the commands are all registered)
-
-::
 
 ## Step 5 
 
@@ -61,7 +58,7 @@ your bot is ready if the bot have an status like
 ## Step 7
 
 Now the bot is online and you can set the Status with /setstaus and you must kick DisBot™ because the Database from your Bots are synced. 
-(Why? If you create your customer or a customer, all the settings are the same and you don't have to do anything new. (Only buttons and things sent by the bot itself don't work no longer.)
+> Why? If you create your customer or a customer, all the settings are the same and you don't have to do anything new. (Only buttons and things sent by the bot itself don't work no longer.
 
 ## Step 8
 
