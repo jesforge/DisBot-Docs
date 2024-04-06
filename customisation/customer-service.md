@@ -7,17 +7,17 @@ In this document you will find out everything like where and what you can do wit
 
 # Good to know!(FAQ)
 
-Q: Is this Service free?
-A: Yes it's full free and your bot ist 24/7
+- Q: Is this Service free?
+- A: Yes it's full free and your bot ist 24/7
 
-Q: Have this Service limits?
-A: No, but you only can create **one** Customer per Discord Account
+- Q: Have this Service limits?
+- A: No, but you only can create **one** Customer per Discord Account
 
-Q: What is coming soon?
-A: A Dashboard like Portainer or [Moonlight](https://moonlightpanel.xyz)
+- Q: What is coming soon?
+- A: A Dashboard like Portainer or [Moonlight](https://moonlightpanel.xyz)
 
-Q: How to get more help?
-A: Join our Discord (see navbar)
+- Q: How to get more help?
++ A: Join our Discord (see navbar)
 
 # Tutorial
 
