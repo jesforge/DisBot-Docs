@@ -44,7 +44,7 @@ Now use the /customer create command from DisBot™
 And read the Customer Terms and infos in the embed. 
 __**(Very important!!! Please use the command on the server where the bot is supposed to run so that the commands are all registered)**__
 
-## Setp 5 
+## Step 5 
 
 Now Press the Button! Here yoh must provide the bit Token fron the Dev Portal and Application ID from your Bot. 
 
@@ -54,7 +54,7 @@ Now your bot ist starting and please wait.
 your bot is ready if the bot have an status like
 "I'm on Version..." or some else
 
-## Setp 7
+## Step 7
 
 Now the bot is online and you can set the Status with /setstaus and you must kick DisBot™ because the Database from your Bots are synced. 
 (Why? If you create your customer or a customer, all the settings are the same and you don't have to do anything new. (Only buttons and things sent by the bot itself don't work no longer.)
