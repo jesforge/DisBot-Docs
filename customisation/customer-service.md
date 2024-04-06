@@ -42,7 +42,7 @@ Now you can invite the Bot on your server.
 Now use the /customer create command from DisBot™ 
 And read the Customer Terms and infos in the embed. 
 
-::hint
+:::
 
 (Very important!!! Please use the command on the server where the bot is supposed to run so that the commands are all registered)
 
