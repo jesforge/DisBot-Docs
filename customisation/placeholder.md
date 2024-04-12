@@ -6,6 +6,33 @@
 
 ## Welcome & Leave
 
+| Placeholder                                                    | Description                         | Where you can use |
+| -------------------------------------------------------------- | ----------------------------------- | ----------------- |
+| <pre><code>{member.name}
+</code></pre>                         | Replace with the member username    |                   |
+| <pre><code>{member.globalname}
+</code></pre>                   | Replace with the member Global Name |                   |
+| <pre><code><strong>{member.displayname}
+</strong></code></pre> |                                     |                   |
+| <pre><code>{member.id}
+</code></pre>                           |                                     |                   |
+| <pre><code>{guild.name}
+</code></pre>                          |                                     |                   |
+| <pre><code>{guild.id}
+</code></pre>                            |                                     |                   |
+| <pre><code>{guild.membercount}
+</code></pre>                   |                                     |                   |
+| <pre><code>{guild.owner.tag}
+</code></pre>                     |                                     |                   |
+| <pre><code>{guild.owner.id}
+</code></pre>                      |                                     |                   |
+| <pre><code>{current.data}
+</code></pre>                        |                                     |                   |
+| <pre><code>{member.avatar}
+</code></pre>                       |                                     |                   |
+| <pre><code>,
+</code></pre>                                     |                                     |                   |
+
 ## Twitch
 
 ## YouTube
