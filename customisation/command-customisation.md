@@ -1,6 +1,6 @@
 # 💾 Command Customisation
 
-### truduction
+## Introduction
 
 This Feature is from discord and everybot have it but you can not use it in evry bot like in DisBot.
 
