@@ -1,26 +1,17 @@
-## How to use
+# ➕ Placeholder
 
-> In the Global Bot System (Customer and DisBot) You can use Placeholder by typing this: ``{<placeholder>}``. 
-But the system has a Limit you can use Placeholder they tag a member or role not in Embed Titles, Authors, Footers, Timestamps.
-And you can use only Placeholder they return a image in the image sections from Embeds or Messages Content.
+### How to use
 
+> In the Global Bot System (Customer and DisBot) You can use Placeholder by typing this: `{<placeholder>}`. But the system has a Limit you can use Placeholder they tag a member or role not in Embed Titles, Authors, Footers, Timestamps. And you can use only Placeholder they return a image in the image sections from Embeds or Messages Content.
 
+## Welcome & Leave
 
-# Welcome & Leave
+## Twitch
 
+## YouTube
 
-# Twitch
+## Ticket System
 
+### Setup
 
-# YouTube
-
-
-# Ticket System
-
-
-## Setup
-
-
-## Utils
-
-
+### Utils
