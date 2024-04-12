@@ -26,3 +26,10 @@ DisBot has no Limits (only API Limits) and you can make your own instanz using t
 
 
 
+### Versions:
+
+* DisBot - `1.5.1`
+* Customer - `1.5.6`
+
+
+
