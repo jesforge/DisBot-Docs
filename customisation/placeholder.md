@@ -112,3 +112,13 @@
 </code></pre>                       | Replace with the Avatar URL                              | Only in Image, Thubnail, Author Image and Footer Image     |
 | <pre><code>,
 </code></pre>                                     | Replace with a new Line                                  | Only in the Message                                        |
+
+
+
+
+
+### Add a Placeholder
+
+* You can open a Placeholder request or DM me on Discord to request a Placeholder!
+* **Note**: `{member.<placeholder>}` Placeholer only work if i have a member Interaction
+
