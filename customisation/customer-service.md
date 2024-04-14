@@ -17,7 +17,7 @@ Hello and welcome to DisBot™ Customer Service In this document you will find o
 
 ## Tutorial
 
-_(coming)_
+{% embed url="https://www.youtube.com/watch?v=V3A3OksR0mc" %}
 
 ## Text Docs
 
