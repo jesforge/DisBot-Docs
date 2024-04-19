@@ -5,13 +5,7 @@
 
 ## 👾 Features
 
-* [📔 Overview](features/overview.md)
-* [🎓 Features](features/features/README.md)
-  * [Twitch](features/features/twitch.md)
-* [♻️ Systems](features/systems/README.md)
-  * [Twitch](features/systems/twitch.md)
-* [💾 Commands](features/commands/README.md)
-  * [Twitch](features/commands/twitch.md)
+* [📹 Twitch](features/twitch.md)
 
 ## ✨ Customisation
 
