@@ -25,12 +25,12 @@
 * ![](<.gitbook/assets/image (15).png>) - Bot Supporter
 * &#x20;![](<.gitbook/assets/image (14).png>) - Bot Expert
 * ![](<.gitbook/assets/image (13).png>) - Translator
-* ![](<.gitbook/assets/image (12).png>) - Docs Collaborator
-* ![](<.gitbook/assets/image (11).png>) - Bug Hunter L2
-* ![](<.gitbook/assets/image (10).png>) - Bug Hunter L1
-* ![](<.gitbook/assets/image (9).png>) - Disbot itself
-* ![](<.gitbook/assets/image (8).png>) Icons fron all Offical DisBot Bots
+* ![](<.gitbook/assets/image (12) (1).png>) - Docs Collaborator
+* ![](<.gitbook/assets/image (11) (1).png>) - Bug Hunter L2
+* ![](<.gitbook/assets/image (10) (1).png>) - Bug Hunter L1
+* ![](<.gitbook/assets/image (9) (1).png>) - Disbot itself
+* ![](<.gitbook/assets/image (8) (1).png>) Icons fron all Offical DisBot Bots
 
 
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

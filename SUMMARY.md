@@ -5,6 +5,7 @@
 
 ## 👾 Features
 
+* [📼 Youtube](features/youtube.md)
 * [📹 Twitch](features/twitch.md)
 
 ## ✨ Customisation
