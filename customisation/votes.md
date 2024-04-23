@@ -1,4 +1,4 @@
-# Votes
+# 💸 Votes
 
 ### What are Voting?
 

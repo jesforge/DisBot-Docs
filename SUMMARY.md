@@ -5,6 +5,7 @@
 
 ## 👾 Features
 
+* [🎫 Tickets](features/tickets.md)
 * [📼 Youtube](features/youtube.md)
 * [📹 Twitch](features/twitch.md)
 
