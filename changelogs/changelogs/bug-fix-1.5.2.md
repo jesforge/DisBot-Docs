@@ -7,6 +7,6 @@
 
 **-> Images:**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>/profile Command [Only on the Dev Server]</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>/profile Command [Only on the Dev Server]</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>/customer list Command </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>/customer list Command </p></figcaption></figure>
