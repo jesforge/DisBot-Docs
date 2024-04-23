@@ -10,7 +10,7 @@
 
 ## ✨ Customisation
 
-* [Votes](customisation/votes.md)
+* [💸 Votes](customisation/votes.md)
 * [🚮 Limits](customisation/limits.md)
 * [💾 Command Customisation](customisation/command-customisation.md)
 * [🤖 Customer Service](customisation/customer-service.md)
