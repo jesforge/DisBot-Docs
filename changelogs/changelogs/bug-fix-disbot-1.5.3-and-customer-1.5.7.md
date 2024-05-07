@@ -12,6 +12,6 @@
 
 ## Customer 1.5.7
 
-* Fixes /setstatus Command
+* Fixed `/setstatus` Command
 * Import all Updates from DisBot
 * More Fixes
