@@ -25,6 +25,7 @@
 
 * [Overview](changelogs/overview.md)
 * [📜 Changelogs](changelogs/changelogs/README.md)
+  * [Bug Fix DisBot 1.5.3 & Customer 1.5.7](changelogs/changelogs/bug-fix-disbot-1.5.3-and-customer-1.5.7.md)
   * [Bug Fix 1.5.2](changelogs/changelogs/bug-fix-1.5.2.md)
   * [Bug Fix 1.5.1](changelogs/changelogs/bug-fix-1.5.1.md)
   * [Update 1.5.0](changelogs/changelogs/update-1.5.0.md)
