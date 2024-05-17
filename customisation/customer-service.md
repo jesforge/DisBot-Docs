@@ -31,23 +31,30 @@ Go to Bot and select the Gateway Intent bits! **(very important for the bot to w
 
 ### Step 3
 
-Now you can invite the Bot on your server.
+Now you can invite the Bot on your server.\
+And the Link are in the OAuth2 Site at the end
 
-> Please on the server where it is to be used.
+Selcet in the OAuth2 Section
+
+_SCOPES: bot, applications.commands_
+
+_BOT PERMISSIONS: Adminestrator (Or select all perms you need)_
+
+> Past the url in an Tab and Invite the Bot on the Server you want to create the Bot
 
 ### Step 4
 
 Now use the /customer create command from DisBot™ And read the Customer Terms and infos in the embed.
 
-> Please use the command on the server where the bot is supposed to run so that the commands are all registered.
+> Please use the /customer create command on the Discord server where it should be created!
 
 ### Step 5
 
-Now Press the Button! Here yoh must provide the bit Token fron the Dev Portal and Application ID from your Bot.
+Now Press the Button! Here you must provide the Bot Token from the Dev Portal and Application ID from your Bot.
 
 ### Step 6
 
-Now your bot ist starting and please wait. your bot is ready if the bot have an status like "I'm on Version..." or some else
+Now your bot ist starting and please wait. Your bot is ready if the bot have an status like "I'm on Version..." or some else
 
 ### Step 7
 
