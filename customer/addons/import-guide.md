@@ -2,7 +2,7 @@
 
 ## How to Import?
 
-Oh its Easy! You need to Download the Files from the [addon-list.md](addon-list.md "mention")or from the Discord.
+Oh its Easy! You need to Download the Files from the [addon-list.md](addon-list.md "mention") or from the Discord.
 
 You have in the Customer Dashboard the Tab Files. Customer -> Files
 
