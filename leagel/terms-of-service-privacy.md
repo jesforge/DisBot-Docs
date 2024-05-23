@@ -10,6 +10,8 @@ Last update: April, 02 2024
 * Twitch Usernames
 * Youtube ID
 * Channel and System related data
+* IP Adress from the Panel Account
+* User Data (Mail, etc.)&#x20;
 
 ### How will we use your data?
 

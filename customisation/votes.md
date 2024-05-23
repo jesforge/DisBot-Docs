@@ -22,4 +22,4 @@ Get a Notify and a Vote message:
 
 {% embed url="https://discord.com/channels/1084507523492626522/1231307819693641804" %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

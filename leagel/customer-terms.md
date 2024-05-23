@@ -13,6 +13,7 @@
 * You will be banned if you abuse the bot
 * You will be banned if you do illegal things or pornographic things with him
 * You will be banned if you "share" the bot (just ask for another one
+* Steam the DisBot Code in any way!
 
 ### More
 

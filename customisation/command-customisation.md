@@ -20,13 +20,13 @@ Here are a Tutorial.
 
 * Now open the Integrations Tab
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="122"><figcaption><p>Open the Integrations</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="122"><figcaption><p>Open the Integrations</p></figcaption></figure>
 
 ### Step 3
 
 * Now Find DisBot and Click Manage
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption><p>Bots and Apps List</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Bots and Apps List</p></figcaption></figure>
 
 
 

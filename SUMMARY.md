@@ -17,6 +17,15 @@
 * [🤖 Customer Service](customisation/customer-service.md)
 * [➕ Placeholder](customisation/placeholder.md)
 
+## 🔗 Customer
+
+* [📚 Overview](customer/overview.md)
+* [🚮 Limits](customer/limits.md)
+* [📉 Create Guide](customer/create-guide.md)
+* [📢 Addons](customer/addons/README.md)
+  * [⏮️ Addon List](customer/addons/addon-list.md)
+  * [📋 Import Guide](customer/addons/import-guide.md)
+
 ## ⚙️ API
 
 * [Overview](api/overview.md)
@@ -25,6 +34,7 @@
 
 * [Overview](changelogs/overview.md)
 * [📜 Changelogs](changelogs/changelogs/README.md)
+  * [Customer 2.0 Release](changelogs/changelogs/customer-2.0-release.md)
   * [Bug Fix DisBot 1.5.3 & Customer 1.5.7](changelogs/changelogs/bug-fix-disbot-1.5.3-and-customer-1.5.7.md)
   * [Bug Fix 1.5.2](changelogs/changelogs/bug-fix-1.5.2.md)
   * [Bug Fix 1.5.1](changelogs/changelogs/bug-fix-1.5.1.md)
