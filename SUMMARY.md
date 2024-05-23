@@ -22,6 +22,8 @@
 * [📚 Overview](customer/overview.md)
 * [🚮 Limits](customer/limits.md)
 * [📉 Create Guide](customer/create-guide.md)
+* [📼 Create Addon](customer/create-addon/README.md)
+  * [Templates](customer/create-addon/templates.md)
 * [📢 Addons](customer/addons/README.md)
   * [⏮️ Addon List](customer/addons/addon-list.md)
   * [📋 Import Guide](customer/addons/import-guide.md)
