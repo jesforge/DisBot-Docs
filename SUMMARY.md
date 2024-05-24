@@ -34,7 +34,6 @@
 
 ## 📜 Changelogs
 
-* [Overview](changelogs/overview.md)
 * [📜 Changelogs](changelogs/changelogs/README.md)
   * [Customer 2.0 Release](changelogs/changelogs/customer-2.0-release.md)
   * [Bug Fix DisBot 1.5.3 & Customer 1.5.7](changelogs/changelogs/bug-fix-disbot-1.5.3-and-customer-1.5.7.md)
