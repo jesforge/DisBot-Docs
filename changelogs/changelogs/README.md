@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="How to?" %}
-The Change Logs/Patch Notes are infos from TNSStudio to DisBot for Updates and Changes from DisBot. Note that here are only all Changelogs from `1.5.0+`.
+Oh Hello, You want to know what are changelogs? Yes the Changelog are an Update Info DisBot.  To tell you the newes Changes...
 {% endtab %}
 
 {% tab title="Short Note" %}
