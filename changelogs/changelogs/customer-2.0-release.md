@@ -29,10 +29,8 @@ Hello and Welcome to the Customer Service! You now can create an Customer with t
 * Docs -> Customer -> Addons -> Overview
 * Docs -> Customer -> Addons -> Import Addon
 * Docs -> Customer -> Addon List
-* You can share you addons in <#1243272873783853197>
+* You can share you addons on the Discord
 
-@everyone <@&1163773397096988683> <@&1163773438327017522>
-
-You \<a:DisBot:1227351985381179465> DisBot Dev Team - See you in 1.6.0!
+Your DisBot Dev Team - See you in 1.6.0!
 
 PS.: All old Customer will deletet on 25 May, 2024. If you delete you DisBot Data (What you have Setup) will be saved and importet in the new Bot if you use the same Guild ID! **NO DATA LOST** -> Help at the discord discord.gg/disbots
