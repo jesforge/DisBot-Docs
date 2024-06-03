@@ -15,46 +15,49 @@ Hello and welcome to DisBot™ Customer Service In this document you will find o
 * Q: How to get more help?
 * A: Join our Discord (see navbar)
 
-## Tutorial
-
-{% embed url="https://www.youtube.com/watch?v=V3A3OksR0mc" %}
-
-## Text Docs
-
 ### Step 1
 
-Create an Application in the [Discord Dev Portal](https://discord.dev)
+Create an Application in the [Discord Dev Portal](https://discord.dev) and Create an Panel Account here!
+
+\-> [customer.disbot.xyz](https://customer.disbot.xyz/)
 
 ### Step 2
 
 Go to Bot and select the Gateway Intent bits! **(very important for the bot to work)**
 
+> Application -> Bot -> Privileged Gateway Intents
+>
+> ![](<../.gitbook/assets/image (28).png>)
+
 ### Step 3
 
-Now you can invite the Bot on your server.\
-And the Link are in the OAuth2 Site at the end
+Now you can invite the Bot on your server.
 
-Selcet in the OAuth2 Section
+> Application -> OAuth2-> OAuth2 URL Generator
 
 _SCOPES: bot, applications.commands_
 
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 _BOT PERMISSIONS: Adminestrator (Or select all perms you need)_
 
-> Past the url in an Tab and Invite the Bot on the Server you want to create the Bot
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+> Paste the link in a new Browser tab (or use the link in the Panel Console... - If you use the panel Link the Bot send errors on the First Invite - _**Panel Infos below**_)
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4
 
-Now use the /customer create command from DisBot™ And read the Customer Terms and infos in the embed.
-
-> Please use the /customer create command on the Discord server where it should be created!
+Now use the /customer command from DisBot™ And read the Customer Terms and infos in the embed.
 
 ### Step 5
 
-Now Press the Button! Here you must provide the Bot Token from the Dev Portal and Application ID from your Bot.
+Now Create the Bot Server! Use the Panel mail and past the mail in the Modal from the Button "Create a Customer"
 
 ### Step 6
 
-Now your bot ist starting and please wait. Your bot is ready if the bot have an status like "I'm on Version..." or some else
+Bot is now Ready! Plase go to "Variables" and past Token, Guild ID and Application ID to start the Bot.
 
 ### Step 7
 
@@ -64,4 +67,4 @@ Now the bot is online and you can set the Status with /setstaus and you must kic
 
 ### Step 8
 
-Now your are Done! More infos to the service? send me an Discord Message (Discord: [tnsjesper](https://tnsjesper.xyz) or Join the Discord)
+Now your are Done! More infos to the service? send me an Discord Message (Discord: [tnsjesper](https://tnsjesper.xyz) or Join the [Discord](https://discord.gg/disbots))
