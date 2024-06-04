@@ -30,8 +30,8 @@ DisBot has no Limits (only API Limits) and you can make your own Custom Branding
 
 ### Versions:
 
-* DisBot: `DisBot-1.5.3`&#x20;
-* Customer: `Customer-2.0.5-1.5.3`
+* `DisBot 1.5.4`
+* `Customer-2.0.8-1.5.4`
 
 
 
