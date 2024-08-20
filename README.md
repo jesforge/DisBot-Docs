@@ -4,6 +4,10 @@ description: Welcome to the Offical DisBot Docs
 
 # 📚 Overview
 
+{% hint style="warning" %}
+The Docs are not done and some things are missing! [<mark style="color:green;">DM me on Discord to get Support.</mark>](https://discord.com/users/850470027026759690)
+{% endhint %}
+
 ## Information
 
 DisBot is a Multi server bot. DisBot use discord Slash Commands and you can [Customize the Command permissions in Discord](customisation/command-customisation.md) `(Settings -> Integrations -> DisBot ->  Commands anklicken -> Perms ändern.)`

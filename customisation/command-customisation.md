@@ -2,6 +2,10 @@
 
 ## Introduction
 
+{% hint style="info" %}
+You need to me in the [Developer Mode](https://www.partitionwizard.com/partitionmagic/discord-developer-mode.html) -> [Tutorial Here](https://www.partitionwizard.com/partitionmagic/discord-developer-mode.html)
+{% endhint %}
+
 This Feature is from discord and everybot have it but you can not use it in evry bot like in DisBot.
 
 You can set permissions to roles and members. If an Command need admin you can set it to Manage Server or only for one member.

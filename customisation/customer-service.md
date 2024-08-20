@@ -15,56 +15,51 @@ Hello and welcome to DisBot™ Customer Service In this document you will find o
 * Q: How to get more help?
 * A: Join our Discord (see navbar)
 
-### Step 1
+### -> Step 1
 
-Create an Application in the [Discord Dev Portal](https://discord.dev) and Create an Panel Account here!
+Go to Disbot DM and run the Command `/customer`   and press Create a Customer&#x20;
 
-\-> [customer.disbot.xyz](https://customer.disbot.xyz/)
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>DisBot Customer Panel</p></figcaption></figure>
 
-### Step 2
+### -> Step 2
 
-Go to Bot and select the Gateway Intent bits! **(very important for the bot to work)**
+If you have open the Modal create a Application by Discord.
 
-> Application -> Bot -> Privileged Gateway Intents
->
-> ![](<../.gitbook/assets/image (28).png>)
+{% embed url="https://youtu.be/qGtC_-kS8JY" %}
 
-### Step 3
+* Create the Bot
+* Copy Application ID
+* Go to -> Bot
+* Select all Gateway Intent Bits
+* \[Optional] Disable Public Bot
+* Reset the Token and Copy it.
 
-Now you can invite the Bot on your server.
+### -> Step 3
 
-> Application -> OAuth2-> OAuth2 URL Generator
+Now you have a Bot and please fill the modal.
 
-_SCOPES: bot, applications.commands_
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+### -> Step 4&#x20;
 
-_BOT PERMISSIONS: Adminestrator (Or select all perms you need)_
+Now DisBot Fetch all infos and create your bot. **Please Wait**
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+Your are Done if DisBot send this message.
 
-> Paste the link in a new Browser tab (or use the link in the Panel Console... - If you use the panel Link the Bot send errors on the First Invite - _**Panel Infos below**_)
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+### -> Step 5
 
-### Step 4
+Now run `/cusomer` again and Select the Bot.
 
-Now use the /customer command from DisBot™ And read the Customer Terms and infos in the embed.
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-### Step 5
 
-Now Create the Bot Server! Use the Panel mail and past the mail in the Modal from the Button "Create a Customer"
 
-### Step 6
+### -> Step 6
 
-Bot is now Ready! Plase go to "Variables" and past Token, Guild ID and Application ID to start the Bot.
+Now you need to Start the Bot and you are Done. If the Bot is started Refresh the Data and Invite the Bot.
 
-### Step 7
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-Now the bot is online and you can set the Status with /setstaus and you must kick DisBot™ because the Database from your Bots are synced.
-
-> Why? If you create your customer or a customer, all the settings are the same and you don't have to do anything new. (Only buttons and things sent by the bot itself don't work no longer.
-
-### Step 8
-
-Now your are Done! More infos to the service? send me an Discord Message (Discord: [tnsjesper](https://tnsjesper.xyz) or Join the [Discord](https://discord.gg/disbots))
+#### Now you are Done and you can use the Bot. If the bot is not Started or any other problem? [DM me instant.](https://discord.com/users/850470027026759690)
