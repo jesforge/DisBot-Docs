@@ -1,3 +1,7 @@
+---
+icon: file-lock
+---
+
 # Terms of Service / Privacy
 
 Last update: April, 02 2024

@@ -1,4 +1,8 @@
-# 📹 Twitch
+---
+icon: twitch
+---
+
+# Twitch
 
 ## Content
 
@@ -48,8 +52,6 @@ _< > - required; \[ ] Optional_
 * List all Notify Channels from this Guild
 
 ## Default Setup
-
-
 
 ### Add
 

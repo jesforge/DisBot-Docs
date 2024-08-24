@@ -1,8 +1,9 @@
 ---
 description: Welcome to the Offical DisBot Docs
+icon: book
 ---
 
-# 📚 Overview
+# Overview
 
 {% hint style="warning" %}
 The Docs are not done and some things are missing! [<mark style="color:green;">DM me on Discord to get Support.</mark>](https://discord.com/users/850470027026759690)

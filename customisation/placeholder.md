@@ -1,4 +1,8 @@
-# ➕ Placeholder
+---
+icon: square-root-variable
+---
+
+# Placeholder
 
 {% hint style="info" %}
 Placeholder currenty rewriten. The Placeholder are working but there are missing some.

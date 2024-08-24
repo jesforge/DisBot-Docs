@@ -1,4 +1,8 @@
-# 📜 Changelogs
+---
+icon: scroll
+---
+
+# Changelogs
 
 ## Informations
 

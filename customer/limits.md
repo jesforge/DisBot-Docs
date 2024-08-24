@@ -1,4 +1,8 @@
-# 🚮 Limits
+---
+icon: ban
+---
+
+# Limits
 
 ### Why Limits?
 

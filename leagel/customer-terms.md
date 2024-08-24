@@ -1,3 +1,7 @@
+---
+icon: info
+---
+
 # Customer Terms
 
 ### Your Permissions

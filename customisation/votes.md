@@ -1,4 +1,8 @@
-# 💸 Votes
+---
+icon: money-bill-simple-wave
+---
+
+# Votes
 
 What are Voting?
 

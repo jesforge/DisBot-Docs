@@ -1,4 +1,8 @@
-# 📔 FAQ
+---
+icon: message-question
+---
+
+# FAQ
 
 ## FAQ?
 

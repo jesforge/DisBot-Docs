@@ -1,4 +1,8 @@
-# 💾 Command Customisation
+---
+icon: sparkles
+---
+
+# Command Customisation
 
 ## Introduction
 

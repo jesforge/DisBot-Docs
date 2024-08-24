@@ -1,4 +1,8 @@
-# 🤖 Customer Service
+---
+icon: robot
+---
+
+# Customer Service
 
 ## Informationen
 
