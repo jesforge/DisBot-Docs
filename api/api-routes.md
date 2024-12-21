@@ -79,7 +79,7 @@ Request all autoreacts from your Server.
 ```
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="404" %}
 ```
 {
   "error": "No <route> Found"

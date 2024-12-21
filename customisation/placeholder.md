@@ -47,54 +47,45 @@ Placeholder currenty rewriten. The Placeholder are working but there are missing
 
 ## Twitch
 
-| Placeholder                                             | Description                                                                              | Where you can use                            |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------- |
-| <pre><code>{author}
-</code></pre>                       | Replace with the Author from the Stream (`tnsjesper`)                                    | Only in the Description and Message          |
-| <pre><code>{title}
-</code></pre>                        | Replace with the current Stream Title (`Today we Play Minecraft - !game !today`)         | Title, Description, Author, Foorter, Message |
-| <pre><code>{game}
+| Placeholder                                                         | Description                                                                              | Where you can use                            |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------- |
+| <pre><code>{streamer}
+</code></pre>                                 | Replace with the Author from the Stream (`tnsjesper`)                                    | Only in the Description and Message          |
+| <pre><code>{stream.vod}
+</code></pre>                               | Stream Thumbnail Url                                                                     | Message, Image, Thumbnail                    |
+| <pre><code>{stream.title}
+</code></pre>                             | Replace with the current Stream Title (`Today we Play Minecraft - !game !today`)         | Title, Description, Author, Foorter, Message |
+| <pre><code>{stream.game_name}
 </code></pre>                         | Replace with the currtent Game (`Minecraft`)                                             | Title, Description, Author, Foorter, Message |
-| <pre><code><strong>{viewers}    
+| <pre><code><strong>{stream.viewer_count}    
 </strong></code></pre> | Replace with the Stream Viewers (`3434 Viewers`)                                         | Title, Description, Author, Foorter, Message |
-| <pre><code>{url}
-</code></pre>                          | Replace with the Stream URL ([https://twitch.tv/tnshesper](https://twitch.tv/tnshesper)) | Title, Description, Author, Foorter, Message |
+| <pre><code>{stream.url}
+</code></pre>                               | Replace with the Stream URL ([https://twitch.tv/tnshesper](https://twitch.tv/tnshesper)) | Title, Description, Author, Foorter, Message |
+| <pre><code>{pingrole}
+</code></pre>                                 | Pings the role from the Setup                                                            | Message                                      |
 | <pre><code>,
-</code></pre>                              | Replace with a new Line                                                                  | Only in the Message                          |
+</code></pre>                                          | Replace with a new Line                                                                  | Only in the Message                          |
 
 ## YouTube
 
-| Placeholder                       | Description                                                                                                                | Where you can use                            |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Placeholder                          | Description                                                                                                               | Where you can use                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | <pre><code>{author}
-</code></pre> | Replace with the Author from the Stream (`tnsjesper`)                                                                      | Only in the Description and Message          |
+</code></pre>    | Replace with the Author from the Stream (`tnsjesper`)                                                                     | Only in the Description and Message          |
 | <pre><code>{title}
-</code></pre>  | Replace with the current Stream Title                                                                                      | Title, Description, Author, Foorter, Message |
+</code></pre>     | Replace with the current Stream Title                                                                                     | Title, Description, Author, Foorter, Message |
 | <pre><code>{link}
-</code></pre>   | Replace with the Stream URL ([`https://youtbe.com/`](https://www.youtube.com/watch?v=dQw4w9WgXcQ\&ab\_channel=RickAstley)) | Title, Description, Author, Foorter, Message |
+</code></pre>      | Replace with the Stream URL ([`https://youtbe.com/`](https://www.youtube.com/watch?v=dQw4w9WgXcQ\&ab_channel=RickAstley)) | Title, Description, Author, Foorter, Message |
+| <pre><code>{thumbnail}
+</code></pre> | Thumbnail URL from the Youtube Video                                                                                      | Message, Image, Thumbnail                    |
+| <pre><code>{pingrole}
+</code></pre>  | Pings the role from the Setup                                                                                             | Message                                      |
 | <pre><code>,
-</code></pre>        | Replace with a new Line                                                                                                    | Only in the Message                          |
+</code></pre>           | Replace with a new Line                                                                                                   | Only in the Message                          |
 
-## Ticket System
+## Ticket System&#x20;
 
-### Setup
-
-| Placeholder                                  | Description                                              | Where you can use                            |
-| -------------------------------------------- | -------------------------------------------------------- | -------------------------------------------- |
-| <pre><code>{guild.name}
-</code></pre>        | Replace with the Guild Name (`DisBot™ Development`)      | Title, Description, Author, Foorter, Message |
-| <pre><code>{guild.id}
-</code></pre>          | Replace with the Guild ID (`1084507523492626522`)        | Title, Description, Author, Foorter, Message |
-| <pre><code>{handlers.id}
-</code></pre>       | Replace with the Ticket Handler ID (`66756787565656856`) | Title, Description, Author, Foorter, Message |
-| <pre><code>{handlers.tag}
-</code></pre>      | Replace with the Ticket Handler Tag (`@Blacklist Role`)  | Only in the Description and Message          |
-| <pre><code>{blacklist.id}
-</code></pre>      | Replace with the Blacklist Role ID (`4564566743475546`)  | In the Timestamp                             |
-| <pre><code>{blacklist.tag}    
-</code></pre> | Replace with the Blacklist Role Tag (`@Role`)            |                                              |
-
-### Utils
+* Please note the Placehodler only work in the System not in the Embed from `/ticket setup`
 
 | Placeholder                                                    | Description                                              | Where you can use                                          |
 | -------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
@@ -116,18 +107,16 @@ Placeholder currenty rewriten. The Placeholder are working but there are missing
 </code></pre>                         | Replace with the Ticket Handler Tag                      | Title, Description, Author, Foorter, Message               |
 | <pre><code>{handlers.tag}
 </code></pre>                        | Replace with the Ticket Handler                          | Only in the Description and Message                        |
-| <pre><code>{current.data}
+| <pre><code>{current.date}
 </code></pre>                        | Replace with the Currtent Date (Today at 12:00 pm)       | In the Timestamp                                           |
 | <pre><code>{member.avatar}
 </code></pre>                       | Replace with the Avatar URL                              | Only in Image, Thubnail, Author Image and Footer Image     |
-| <pre><code>,
-</code></pre>                                     | Replace with a new Line                                  | Only in the Message                                        |
 
 
 
 
 
-### Add a Placeholder
+### Request a Placeholder
 
 * You can open a Placeholder request or DM me on Discord to request a Placeholder!
 * **Note**: `{member.<placeholder>}` Placeholer only work if i have a member Interaction
