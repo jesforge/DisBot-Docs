@@ -8,6 +8,7 @@
 * [Tickets](features/tickets.md)
 * [Youtube](features/youtube.md)
 * [Twitch](features/twitch.md)
+* [Other Features](features/other-features.md)
 
 ## ✨ Customisation
 
