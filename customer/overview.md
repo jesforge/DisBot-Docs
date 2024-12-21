@@ -20,5 +20,3 @@ The Service hat an own Dashboard at [https://customer.disbot.xyz](https://custom
 
 * [limits.md](limits.md "mention")
 * [create-guide.md](create-guide.md "mention")
-* [Broken link](broken-reference "mention")
-* [Broken link](broken-reference "mention")
