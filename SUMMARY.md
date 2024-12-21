@@ -27,6 +27,7 @@
 ## API
 
 * [Overview](api/overview.md)
+* [API Routes](api/api-routes.md)
 
 ## Changelogs
 

@@ -9,18 +9,24 @@ icon: book
 
 
 {% hint style="warning" %}
-The API and API Commands are in Beta and not done... (Update in 1.7.0/1.8.0)
+The API is now included in a beta version of the bot
 {% endhint %}
 
 
 
-You can find the API at [https://api.disbot.xyz](https://api.disbot.xyz) and the docs at [/docs ](broken-reference)or [/swagger](https://api.disbot.xyz/docs).
+You can find the API at [https://api.disbot.xyz](https://api.disbot.xyz) and the Routes in [api-routes.md](api-routes.md "mention")
 
-You need an API Key and a Application to use it.&#x20;
+To authorize yourself with the API use `/bot api` and copy the key
 
-* Discord Bot
-* CURL Command
-* Axios
+**Headers**
+
+| Name          | Value              |
+| ------------- | ------------------ |
+| Content-Type  | `application/json` |
+| Authorization | `<token>`          |
+| GuildId       | `<guildId>`        |
+
+
 
 
 
