@@ -12,6 +12,7 @@
 ## ✨ Customisation
 
 * [Votes](customisation/votes.md)
+* [Message Templates](customisation/message-templates.md)
 * [Limits](customisation/limits.md)
 * [Command Customisation](customisation/command-customisation.md)
 * [Customer Service](customisation/customer-service.md)
@@ -30,6 +31,7 @@
 ## Changelogs
 
 * [Changelogs](changelogs/changelogs/README.md)
+  * [Update 1.6.0b27](changelogs/changelogs/update-1.6.0b27.md)
   * [Update 1.6.0b6](changelogs/changelogs/update-1.6.0b6.md)
   * [Bug Fix DisBot & Customer](changelogs/changelogs/bug-fix-disbot-and-customer.md)
   * [Customer 2.0 Release](changelogs/changelogs/customer-2.0-release.md)

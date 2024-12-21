@@ -1,3 +1,7 @@
+---
+icon: pen-to-square
+---
+
 # Bug Fix DisBot 1.5.3 & Customer 1.5.7
 
 ## DisBot 1.5.3

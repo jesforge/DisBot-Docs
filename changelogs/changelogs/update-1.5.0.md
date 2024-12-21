@@ -1,3 +1,7 @@
+---
+icon: pen-to-square
+---
+
 # Update 1.5.0
 
 ### Connections
@@ -34,7 +38,7 @@
 * &#x20; `/api create` - Create or show the API Key
 * &#x20; `/api delete` - Delete you Key
 * &#x20;  `/api guild` - Add a Guild to acces the Guild on the API
-* API on api.disbot.xyz **(API **<mark style="color:red;">**currently**</mark>** not OPEN)**
+* API on api.disbot.xyz **(API&#x20;**<mark style="color:red;">**currently**</mark>**&#x20;not OPEN)**
 
 
 

@@ -1,3 +1,7 @@
+---
+icon: pen-to-square
+---
+
 # Bug Fix 1.5.2
 
 **Features**:
@@ -7,6 +11,6 @@
 
 **-> Images:**
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>/profile Command [Only on the Dev Server]</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>/profile Command [Only on the Dev Server]</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>/customer list Command </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>/customer list Command </p></figcaption></figure>

@@ -26,4 +26,4 @@ Get a Notify and a Vote message:
 
 [https://discord.gg/VYYQxGS6Eg](https://discord.gg/VYYQxGS6Eg)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

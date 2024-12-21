@@ -1,3 +1,7 @@
+---
+icon: pen-to-square
+---
+
 # Update 1.6.0b6
 
 **Changes**:

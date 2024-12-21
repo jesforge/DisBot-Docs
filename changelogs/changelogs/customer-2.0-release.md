@@ -1,3 +1,7 @@
+---
+icon: pen-to-square
+---
+
 # Customer 2.0 Release
 
 Hello and Welcome to the Customer Service! You now can create an Customer with the Command `/customer`. If you need help join our discord at discord.gg/disbots
