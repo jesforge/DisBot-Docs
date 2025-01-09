@@ -33,6 +33,7 @@
 ## Changelogs
 
 * [Changelogs](changelogs/changelogs/README.md)
+  * [Update 1.6.0b29s3](changelogs/changelogs/update-1.6.0b29s3.md)
   * [Update 1.6.0b29](changelogs/changelogs/update-1.6.0b29.md)
   * [Update 1.6.0b27](changelogs/changelogs/update-1.6.0b27.md)
   * [Update 1.6.0b6](changelogs/changelogs/update-1.6.0b6.md)
