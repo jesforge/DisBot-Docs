@@ -33,6 +33,7 @@
 ## Changelogs
 
 * [Changelogs](changelogs/changelogs/README.md)
+  * [Dashboard 1.0.0b4](changelogs/changelogs/dashboard-1.0.0b4.md)
   * [Dashboard 1.0.0b3](changelogs/changelogs/dashboard-1.0.0b3.md)
   * [Dashboard 1.0.0b2](changelogs/changelogs/dashboard-1.0.0b2.md)
   * [DisBot 1.6.0b29s5 HotFix](changelogs/changelogs/disbot-1.6.0b29s5-hotfix.md)
