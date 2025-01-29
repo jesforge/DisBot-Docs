@@ -1,6 +1,6 @@
 ---
-description: Welcome to the Offical DisBot Docs
 icon: book
+description: Welcome to the Offical DisBot Docs
 ---
 
 # Overview
@@ -23,20 +23,15 @@ DisBot has no Limits (only API Limits) and you can make your own Custom Branding
 * [Broken link](broken-reference "mention")
 * [Broken link](broken-reference "mention")
 * [Broken link](broken-reference "mention")
-* [Broken link](broken-reference "mention")
+* [changelogs](changelogs/changelogs/ "mention")
 
 ### Quick Links
 
-* Discord: [@DisBot Development](https://discord.gg/my8dtzuW3S)
-* Invite:  [@DisBot](https://disbot.xyz)
-* Contact me: [@tnsjesper](https://discord.com/users/850470027026759690)
+* Discord: [@DisBot Development](https://dcord.click/disbot)
+* Invite:  [@DisBot](https://discord.com/users/1063079377975377960)
+* Contact me: [@](https://discord.com/users/850470027026759690)[jesforge](https://discord.com/users/850470027026759690)
 * [terms-of-service-privacy.md](leagel/terms-of-service-privacy.md "mention")
 * [customer-terms.md](leagel/customer-terms.md "mention")
-
-### Versions:
-
-* `DisBot 1.5.4`
-* `Customer-2.0.8-1.5.4`
 
 
 
