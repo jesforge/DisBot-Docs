@@ -54,7 +54,7 @@ Your are Done if DisBot send this message.
 
 ### -> Step 5
 
-Now run `/cusomer` again and Select the Bot.
+Now run `/customer` again and Select the Bot.
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
